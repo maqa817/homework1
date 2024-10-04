@@ -1,0 +1,58 @@
+.main {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 150px;
+    padding: 10px;
+    color: lightgray;
+    
+    
+}
+.center {min-height: 600px;}
+.plugin{
+    border-radius: 10px;
+    margin: 2px;
+    padding: 2px;
+    background-image: url("champ4.jpg");
+
+}
+.plugin h5 {
+    display: block;
+    border-bottom: 1px solid gray;
+    padding-left: 10px;
+    
+}
+.leftcenter{
+    width: 20%;
+    float: left;
+    
+
+}
+.rightcenter{
+    width: 20%;
+    float: right;
+    
+    
+
+}
+.maincenter{
+    width: 59.67%;
+    float: left;
+
+}
+.footer{
+    height: 50px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: lightgray;
+}
+.copyright{float: left;}
+.design {float: right;}
+body {
+    background-image: url("champ3.jpeg");
+}
+.news{color: solid black;
+margin: 5px;}
+
